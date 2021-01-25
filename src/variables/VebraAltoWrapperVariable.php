@@ -99,7 +99,8 @@ class VebraAltoWrapperVariable
             'description' => 'description',
 
             'bullets,bullet' => 'bullets,bullet',
-            'brochure' => 'brochure'
+            'brochure' => 'brochure',
+            'floorplan'=>'floorplan'
 
         );
     }
